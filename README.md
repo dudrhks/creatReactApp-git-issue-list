@@ -1,6 +1,6 @@
 # Git Issue List
 
-패스트레인 사전과제
+git issue list project
 
 ## Local 개발환경 설정
 
